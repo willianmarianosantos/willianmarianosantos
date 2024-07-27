@@ -2,4 +2,4 @@
 
 [Academia de Java - Postgres](https://github.com/willianmarianosantos/Postgres)
 
-[Academia de Java - Hibernate - Servelet - TomCat](https://github.com/willianmarianosantos/Hibernate.)
+[Academia de Java - Hibernate - Servelet - TomCat](https://github.com/willianmarianosantos/Academia-de-Java---Hibernate---Servelet---TomCat)
